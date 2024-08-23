@@ -1,0 +1,46 @@
+body {
+    color: lightblue;
+    background:  black;
+    margin: 0px;
+   
+}
+
+header
+{  
+border-bottom:solid 2px rgb(16, 166, 217);
+padding: 20px;
+font-size: 32px;
+color: rgb(18, 215, 215);   
+
+}
+
+section{
+    background-color: lightblue;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+div {
+    margin-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
